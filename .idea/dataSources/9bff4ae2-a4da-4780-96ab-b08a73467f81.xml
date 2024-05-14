@@ -769,7 +769,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </schema>
     <schema id="231" parent="1" name="vk_test">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2024-05-14.02:59:26</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-05-14.17:36:38</LastIntrospectionLocalTimestamp>
       <CollationName>utf8_general_ci</CollationName>
     </schema>
     <schema id="232" parent="1" name="wp">
@@ -1072,7 +1072,7 @@ tokenable_id</ColNames>
       <UnderlyingIndexName>personal_access_tokens_token_unique</UnderlyingIndexName>
     </key>
     <column id="297" parent="242" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>5</AutoIncrement>
       <DasType>bigint(20) unsigned|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1111,7 +1111,7 @@ tokenable_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="305" parent="243" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>3</AutoIncrement>
       <DasType>bigint(20) unsigned|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>

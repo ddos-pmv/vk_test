@@ -769,7 +769,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </schema>
     <schema id="231" parent="1" name="vk_test">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2024-05-14.17:36:38</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-05-22.13:41:24</LastIntrospectionLocalTimestamp>
       <CollationName>utf8_general_ci</CollationName>
     </schema>
     <schema id="232" parent="1" name="wp">

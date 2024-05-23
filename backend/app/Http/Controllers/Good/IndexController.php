@@ -41,8 +41,13 @@ class IndexController extends Controller
 
     }
     public function all(){
-        $goods = Good::all();
-        return GoodResource::collection($goods);
+        $cacheKey = "products_all";
+        $data = Cache::remember($cacheKey, 60*60*60, function(){
+            $goods = Good::all();
+            return GoodResource::collection($goods);
+        });
+        return response()->json($data);
+
     }
     public function add(Request $request){
         return dd($request);

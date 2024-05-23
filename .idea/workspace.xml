@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f846186b-a4de-4c9a-8a49-016f24abddb8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9bff4ae2-a4da-4780-96ab-b08a73467f81.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9bff4ae2-a4da-4780-96ab-b08a73467f81.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c38e96fb-30ed-4210-b862-d0d6798a89b7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c38e96fb-30ed-4210-b862-d0d6798a89b7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/app/Http/Controllers/Good/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Controllers/Good/IndexController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,8 +158,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "SQL Inserts",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Перлин Сергей/Documents/vk_test_git",
+    "last_opened_file_path": "C:/Users/Перлин Сергей/Documents/vk_test_git/db",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -171,7 +177,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Перлин Сергей\Documents\vk_test_git\db" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Перлин Сергей\Documents\vk_test_git\.docker\nginx\conf.d" />
       <recent name="C:\Users\Перлин Сергей\Documents\vk_test\backend\app\Http\Controllers" />
     </key>
   </component>
@@ -198,7 +208,10 @@
       <option name="presentableId" value="Default" />
       <updated>1715605074276</updated>
       <workItem from="1715605075525" duration="28180000" />
-      <workItem from="1715686755770" duration="5850000" />
+      <workItem from="1715686755770" duration="6425000" />
+      <workItem from="1716119706810" duration="228000" />
+      <workItem from="1716384233284" duration="1383000" />
+      <workItem from="1716389719541" duration="14398000" />
     </task>
     <servers />
   </component>
